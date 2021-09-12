@@ -12,6 +12,9 @@
         <module>api</module>
         <module>consumer</module>
         <module>provider</module>
+        <module>spiconsumer</module>
+        <module>spiprovider</module>
+        <module>spiapi</module>
     </modules>
 
 

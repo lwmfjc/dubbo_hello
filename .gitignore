@@ -1,3 +1,6 @@
 .idea/
 dubbo_hello.iml
 target/
+spiapi/target/
+spiconsumer/target/
+spiprovider/target/
