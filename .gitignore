@@ -4,3 +4,4 @@ target/
 spiapi/target/
 spiconsumer/target/
 spiprovider/target/
+provider/target/

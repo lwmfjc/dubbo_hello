@@ -15,6 +15,7 @@
         <module>spiconsumer</module>
         <module>spiprovider</module>
         <module>spiapi</module>
+        <module>zk_hello</module>
     </modules>
 
 
